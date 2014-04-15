@@ -108,15 +108,22 @@ textarea {
 
 #wedding_info {
 
-    margin-top:15%;
-    margin-right:25%;
+    margin-top:30%;
+    margin-left:4%;
 }
 
 
 
 
 
-
+body {
+    background-image: url('../img/coffee.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: white;
+    width: 100%;
+    height: 100%;
+}
 
 
 
